@@ -6,6 +6,9 @@ img{
   margin-right: 20px;
   margin-left: 20px;
 }
+.page{
+  width:25%
+}
 .big-heading {
     font-size: 18em; 
     text-align: center;
